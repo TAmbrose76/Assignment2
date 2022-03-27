@@ -1,0 +1,15 @@
+C:\Users\fdelanty\source\repos\Tutorial4\Tutorial4\bin\Debug\Tutorial4.exe.config
+C:\Users\fdelanty\source\repos\Tutorial4\Tutorial4\bin\Debug\Tutorial4.exe
+C:\Users\fdelanty\source\repos\Tutorial4\Tutorial4\bin\Debug\Tutorial4.pdb
+C:\Users\fdelanty\source\repos\Tutorial4\Tutorial4\obj\Debug\Tutorial4.csprojAssemblyReference.cache
+C:\Users\fdelanty\source\repos\Tutorial4\Tutorial4\obj\Debug\Tutorial4.csproj.CoreCompileInputs.cache
+C:\Users\fdelanty\source\repos\Tutorial4\Tutorial4\obj\Debug\Tutorial4.exe
+C:\Users\fdelanty\source\repos\Tutorial4\Tutorial4\obj\Debug\Tutorial4.pdb
+C:\Users\Wobbl\OneDrive\Desktop\KIT206  Software design and development\Tutorial4\Tutorial4\bin\Debug\Tutorial4.exe.config
+C:\Users\Wobbl\OneDrive\Desktop\KIT206  Software design and development\Tutorial4\Tutorial4\bin\Debug\Tutorial4.exe
+C:\Users\Wobbl\OneDrive\Desktop\KIT206  Software design and development\Tutorial4\Tutorial4\bin\Debug\Tutorial4.pdb
+C:\Users\Wobbl\OneDrive\Desktop\KIT206  Software design and development\Tutorial4\Tutorial4\obj\Debug\Tutorial4.csproj.AssemblyReference.cache
+C:\Users\Wobbl\OneDrive\Desktop\KIT206  Software design and development\Tutorial4\Tutorial4\obj\Debug\Tutorial4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wobbl\OneDrive\Desktop\KIT206  Software design and development\Tutorial4\Tutorial4\obj\Debug\Tutorial4.csproj.CoreCompileInputs.cache
+C:\Users\Wobbl\OneDrive\Desktop\KIT206  Software design and development\Tutorial4\Tutorial4\obj\Debug\Tutorial4.exe
+C:\Users\Wobbl\OneDrive\Desktop\KIT206  Software design and development\Tutorial4\Tutorial4\obj\Debug\Tutorial4.pdb
